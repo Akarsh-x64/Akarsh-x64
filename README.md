@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akarsh!</h1>
 <h3 align="center">the 64-bit version</h3>
 
-<h3 align="left">Connect with me: akarsh.sharma@hotmail.com</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">akarsh.sharma@hotmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
