@@ -2,7 +2,7 @@
 <h3 align="center">the 64-bit version</h3>
 <div align="center">
 <br>
-<a>
+<a href="">
     <img src="https://render.gitanimals.org/farms/Akarsh-x64"/>
 </a>
 </div>
