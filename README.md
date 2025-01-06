@@ -3,7 +3,7 @@
 <h1 alighn="center">
 <img
   src="https://render.gitanimals.org/farms/Akarsh-x64"
-  width="600"
+  width="`1000"
   height="300"
   align="center"
 />
